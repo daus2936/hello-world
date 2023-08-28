@@ -15,6 +15,10 @@
     <label for="Region"><b>Enter Region</b></label>
     <input type="text" placeholder="Enter Region" name="Region" id="Region" required>
     <br>
+
+    <label for="Food"><b>Enter Food</b></label>
+    <input type="text" placeholder="Enter Food" name="Food" id="Food" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
